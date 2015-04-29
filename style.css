@@ -27,7 +27,7 @@ clear:both;
 
 #postHeader { 	
 margin:0 auto;
-padding:0 .2em .3em .2em;
+padding:0em 3em .2em 0;
 width:auto;
 text-align:right;
 vertical-align: middle;	
@@ -36,24 +36,17 @@ font-size:1em;
  text-transform:uppercase; 
 }
 
-#postHeader a {
+ a {
 	text-decoration:none;
-color: #000000;
+color:#000000;
 }
 
 #postHeader a:hover {
 color:#616161;
 text-decoration:none;
+font-size:1em;
 }
 
-#centerColumn { 	
-margin:0 auto;
-width:auto;
-text-align:left;
-vertical-align: middle;	
-background-color:#f7ebfc;
-display: block;
-}
 
 
 #navbar {
@@ -72,7 +65,7 @@ font-family: 'Bitter', serif;
 font-weight: bolder;
 display: block;
 color: #b301fa;
-font-size: 4em;
+font-size: 3.8em;
 }
 
 #navbar h2 {
@@ -100,17 +93,17 @@ border-top:none;
 #header p {
 	margin:0 0 0 0;
 padding:1em 10% 1em 25%;
-font-size: 1.3em;
+font-size: 1.1em;
 color: 000000;
 font-family: "Bitter", serif;
 font-style: italic;
 }
 
 #header a {
-color: 616161;
+color: #616161;
 font-family: "Bitter", serif;
 font-style: italic;
-text-decoration: none
+text-decoration: none;
 }
 
 #box_div {
@@ -163,17 +156,24 @@ background-color:#f7ebfc;
 display: inline-block;
 }
 
-#topic {
-	padding: 30px 15% 30px 15%px;
+.topic {
+	padding: 30px 20%% 30px 20%%px;
 	width: 100%;
 	height: auto;
 }
 
-#topic h2 {
+.topic h2 {
 	font-family: 'Bitter', serif;
 	color: #ff7c00;
 	margin-left: 25px;
 	margin-bottom: 10px;
+	padding-left: 10%;
+}
+
+.topic p {
+	font-family: 'Bitter', serif;
+	color: 000000;
+	padding: .5em 10% .5em 10%;
 }
 
 #footer {
@@ -183,7 +183,7 @@ bottom:0;
 margin:5em 0 0 0;
 padding:0;
 height:4em;
-line-height:4em;
+line-height:2em;
 text-align:center;
 font-size:1em;
 background-color:#f7ebfc;
@@ -191,6 +191,7 @@ color: #b301fa;
 }
 
 #footer a {
-	color: 000000;
+	color: #000000;
 	text-decoration: none;
+	font-size: 1em;
 }
