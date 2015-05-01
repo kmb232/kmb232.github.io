@@ -8,7 +8,7 @@ body {
 margin:.5em;
 padding:0;
 height:100%;
-background-color:#ffffff;
+background-color:#eefcff;
 color:#616161;  
 font-family:"Bitter", sans-serif;
 font-size:.9em;
@@ -19,8 +19,8 @@ hr {
 margin-bottom:20px;
 border:none;
 width:100%;
-color:#ffffff;
-background-color:#ffffff;
+color:#eefcff;
+background-color:#eefcff;
 height:1px;
 clear:both;
 }
@@ -53,7 +53,7 @@ font-size:1em;
 margin: 1em 2em 0 -1em; /* Mozzila attributes */
 padding:1em 0 2em 0 !important; /* IE specific attributes */
 padding:1em 0 0 0;
-background-color:#ffffff;
+background-color:#eefcff;
 display: block;
 }
 
@@ -75,7 +75,7 @@ padding:1em 0 1em 0;
 list-style:none;
 display:block;
 color:#ff7c00;
-background-color:#ffffff;
+background-color:#eefcff;
 font-family: "Bitter", serif;
 font-weight: bold;
 font-size: 2em;
@@ -94,7 +94,7 @@ border-top:none;
 	margin:0 0 0 0;
 padding:1em 10% 1em 25%;
 font-size: 1.1em;
-color: 616161;
+color: #454545;
 font-family: "Bitter", serif;
 font-style: italic;
 }
@@ -108,7 +108,7 @@ text-decoration: underline;
 
 #box_div {
 width: 100%;
-background-color: ffffff;
+background-color: eefcff;
 margin:0 2em 2em -1em;
 padding:0 10% 0 0;
 height:auto;
@@ -131,7 +131,7 @@ padding:8px;
 display: inline;
 width:100px;
 height: 100px;
-background-color:#ffffff;
+background-color:#eefcff;
 display: inline;
 float:left;
 }
@@ -142,7 +142,7 @@ padding:2px;
 display: inline-block;
 width:100px;
 height: 100px;
-background-color:#ffffff;
+background-color:#eefcff;
 display: inline;
 float: left;
 }
@@ -153,7 +153,7 @@ padding:2px;
 display: inline;
 width:100px;
 height: 100px;
-background-color:#ffffff;
+background-color:#eefcff;
 display: inline;
 float: left;
 }
@@ -165,7 +165,7 @@ display: inline;
 width:100px;
 height: 100px;
 
-background-color:#ffffff;
+background-color:#eefcff;
 display: inline-block;
 float: left;
 }
@@ -201,8 +201,12 @@ height:4em;
 line-height:2em;
 text-align:center;
 font-size:1em;
-background-color:#ffffff;
+background-color:#eefcff;
 color: #b301fa;
+}
+
+#footer p {
+	color: #b301fa;
 }
 
 #footer a {

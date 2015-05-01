@@ -1,0 +1,41 @@
+  <h2>Digital</h2>
+  
+  Technology is all about finding the right tool for the job, and creating the tool if you can't find the one you want. I've planned an entire digital strategy and consulted on others, created email formats and content, and learned to code. I understand the entire pipeline, from back end development to getting the wording just right. 
+
+  I'm a bit of a Twitter expert, having spent over a year studying and alayzing the Twitter ecosystem. That theoretical experience allows me to come up with new approaches to the medium when working with clients, including advising organizations on the best way to get their message trending and how to best interact with the fans they already have online. I've also taught others how to create a social media presense for their own organizations. 
+
+  </div>
+  
+  <div class="topic">
+    <h2>Data</h2>
+    <p>My experience in data analysis is based on my interest in the subject matter. I fine-tuned a social media analytics program in order to help a variety of organizations get their message out, including using natural language processing to find out what wording was popular and using metadata to analyze the habits of their followers.
+
+    Most of my coding experience has been the result of working with data. In Python I've learned how to use Pandas, NumPy, ScikitLearn, and assorted other packages. I've worked to develop skills in Data Visualization, as well.
+ </p>
+  </div>
+    <div class="topic">
+    <h2>Organizing</h2>
+    <p>My heart will always be in organizing. Everything else I do, communications or coding, is in the hope of working with others to improve the lives of others. Community organizing is where I've gained the widest experience including event planning, fundraising, and project management.
+
+    By organizing and managing volunteers I've learned the importance of teamwork and making sure everyone feels ownership in the project. It's a philosophy I work to encourage in my professional life, as well. It's important that others feel respected and like their opinions and contributions to a project is important.
+
+    I've put these skills to use on a variety of projects ranging from a self-confidence workshop for young girls to a weekend's worth of events at Oktoberfest for over 100 people. It's made me organized, focused, and able to stay calm under pressure.
+ </p>
+  </div>
+    <div class="topic">
+    <h2>International Experience</h2>
+    <p>You learn a lot about yourself and your world when you pack up and move to a foreign country. My experience abroad taught me how to adapt to new situations and how to use creative thinking to solve any problem that comes my way. I've worked with professional and government organizations all over the world and know a thing or two about international communications.
+
+    My experience abroad has also made me comfortable in an extremely wide variety of situations. While others may stick to familiar ground I have no problems striking out and trying something new or meeting new people. I realize that despite outward dissimilarities there is always common ground to be found, and I relish the opportunity to discover more about others and the world at large.
+ </p>
+  </div>
+    <div class="topic">
+      <a name="AboutMe"</a> 
+    <h2>About Me</h2>
+    <p>I'm originally from Indiana and can appreciate a county fair, but I eventually moved to Germany to study, work, and experience a new culture. Along the way I earned a B.A. in History, learned two foreign languages, did a bit of programming, and eventually ended up in Washington, D.C.
+
+    My history studies are vital to how I approach the world. I instinctively try to place problems in context and look for cause and effect relationships. I've also had to learn about the historical forces affecting the world today. My love of history also keeps me involved in the community through various organizations. I even blogged about it for a time.
+
+    But don't think my interest in history makes me a traditionalist. I'm a believer in new ideas and pushing to new territory. I'm not content to sit idly by while the status quo is being observed. I look for ways to improve on what's been done in the past and integrate creative thinking into projects.
+
+    Most importantly I want to make sure what I do matters and I want to encourage others to persue the same goal. I've taken the proverbial long and winding road, but it's given me a sense of purpose and a desire to push the limits of what is possible.
