@@ -9,7 +9,7 @@ margin:.5em;
 padding:0;
 height:100%;
 background-color:#eefcff;
-color:#616161;  
+color:#454545;  
 font-family:"Bitter", sans-serif;
 font-size:.9em;
 }
@@ -38,11 +38,11 @@ font-size:1em;
 
  a {
 	text-decoration:none;
-color:#616161;
+color:#454545;
 }
 
 #postHeader a:hover {
-color:#616161;
+color:#454545;
 text-decoration:underline;
 font-size:1em;
 }
@@ -100,7 +100,7 @@ font-style: italic;
 }
 
 #header a {
-color: #616161;
+color: #454545;
 font-family: "Bitter", serif;
 font-style: italic;
 text-decoration: underline;
@@ -187,8 +187,14 @@ float: left;
 
 .topic p {
 	font-family: 'Bitter', serif;
-	color: 616161;
+	color: 454545;
 	padding: .5em 10% .5em 10%;
+}
+
+a.paragraph {
+	font-family: 'Bitter', serif;
+	color: 454545;
+	text-decoration: underline;
 }
 
 #footer {
@@ -210,7 +216,7 @@ color: #b301fa;
 }
 
 #footer a {
-	color: #616161;
+	color: #454545;
 	text-decoration: none;
 	font-size: 1em;
 }

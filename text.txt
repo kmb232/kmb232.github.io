@@ -32,10 +32,7 @@
     <div class="topic">
       <a name="AboutMe"</a> 
     <h2>About Me</h2>
-    <p>I'm originally from Indiana and can appreciate a county fair, but I eventually moved to Germany to study, work, and experience a new culture. Along the way I earned a B.A. in History, learned two foreign languages, did a bit of programming, and eventually ended up in Washington, D.C.
-
-    My history studies are vital to how I approach the world. I instinctively try to place problems in context and look for cause and effect relationships. I've also had to learn about the historical forces affecting the world today. My love of history also keeps me involved in the community through various organizations. I even blogged about it for a time.
-
-    But don't think my interest in history makes me a traditionalist. I'm a believer in new ideas and pushing to new territory. I'm not content to sit idly by while the status quo is being observed. I look for ways to improve on what's been done in the past and integrate creative thinking into projects.
-
-    Most importantly I want to make sure what I do matters and I want to encourage others to persue the same goal. I've taken the proverbial long and winding road, but it's given me a sense of purpose and a desire to push the limits of what is possible.
+    <p>I'm originally from Indiana and can appreciate a county fair, but I eventually moved to Germany to study, work, and experience a new culture. Along the way I earned a B.A. in History, learned two foreign languages, did a bit of programming, and eventually ended up in Washington, D.C.</p>
+    <p>My history studies are vital to how I approach the world. I instinctively try to place problems in context and look for cause and effect relationships. I've also had to learn about the historical forces affecting the world today. My love of history also keeps me involved in the community through various organizations. I even blogged about it for a time.</p>
+    <p>But don't think my interest in history makes me a traditionalist. I'm a believer in new ideas and pushing to new territory. I'm not content to sit idly by while the status quo is being observed. I look for ways to improve on what's been done in the past and integrate creative thinking into projects.</p>
+    <p>Most importantly I want to make sure what I do matters and I want to encourage others to persue the same goal. I've taken the proverbial long and winding road, but it's given me a sense of purpose and a desire to push the limits of what is possible.</p>
