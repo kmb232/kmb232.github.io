@@ -17,7 +17,6 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
-OUTPUT_PATH = '/Users/kathleenmburnett/Personal_Web_Files/isl_page/kmb232.github.io/blog'
 
 # Following items are often useful when publishing
 
