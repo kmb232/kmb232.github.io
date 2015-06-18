@@ -8,7 +8,7 @@ SITEURL = 'kmb232.github.io/pelican/output/index.html'
 THEME= 'themes/gum/'
 
 PATH = 'content'
-OUTPUT_PATH = '/Users/kathleenmburnett/Personal_Web_Files/isl_page/kmb232.github.io/blog'
+
 
 TIMEZONE = 'Europe/Paris'
 DEFAULT_DATE = "fs"
