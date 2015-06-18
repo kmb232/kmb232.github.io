@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Kathleen Burnett'
 SITENAME = u'Learning As I Go'
-SITEURL = 'http://kmb232.github.io'
+SITEURL = 'http://kmb232.github.io/pelican'
 THEME= 'themes/gum/'
 
 PATH = 'content'
