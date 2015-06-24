@@ -1,5 +1,5 @@
 Title: Intro: On Language Learning
-Category: Technology
+Categories: Technology
 Tags: Learning to Code
 Author: Me
 
