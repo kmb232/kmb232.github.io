@@ -2,7 +2,6 @@ Title: Don't Give Up! Or: What it's like in the middle of a project.
 Category: Technology
 Tags: Learning to Code, Data
 Author: Me
-Status: Draft
 
 I'm midway through a project I've been working on for some time, and of course so far I've found many more questions than answers. I'm trying to tell myself that that's OK, though. At least I think it is.
 
