@@ -110,80 +110,43 @@ font-style: italic;
 text-decoration: underline;
 }
 
-#box_div {
-width: 100%;
-background-color: #ffffff;
-margin:1.5em 2em 2em -1em;
-padding:55px 10% 75px 0;
-height:auto;
-text-align: center;
-display: inline-block;
+.box_div {
+margin: 100px 0px 0px 200px;
 }
 
-#box_div h1 {
-	text-align: left;
-	padding: 0auto;
-	margin: 30px 25px 0px 5px;
-	display: inline;
-	float: left;
-	font-size: 1.75em;
-	color: #454545;
+
+
+.box_div ul {
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #6701cb;
+	list-style: none;
+	width: 100%;
+	background-color: #ffffff;
+	margin:1.5em 2em 2em 0em;
+	height:auto;
 }
 
-#box_div h1:hover {
-	color: #f15a22
+.box_div a {
+	color:#454545;
+}
+.box_div a:hover {
+	text-decoration: underline;
 }
 
-#box_1 {
-margin:2em 2px 2em 10%;
-padding:2px;
-display: inline;
-width:50px;
-height: 50px;
-background-color:#ffffff;
-display: inline;
-float:left;
-}
-
-#box_2 {
-margin:2em 2px 2em 2px ;
-padding:2px;
-display: inline-block;
-width:50px;
-height: 50px;
-background-color:#ffffff;
-display: inline;
-float: left;
-}
-
-#box_3 {
-margin:2em 2px 2em 2px;
-padding:2px;
-display: inline;
-width:50px;
-height: 50px;
-background-color:#ffffff;
-display: inline;
-float: left;
-}
-
-#box_4 {
-margin:2em 0% 2em 2px;
-padding:2px;
-display: inline;
-width:50px;
-height: 50px;
-
-background-color:#ffffff;
-display: inline-block;
-float: left;
+li {
+	display: inline-block;
+	padding: 0px 45px 0px 0px;
 }
 
 .topic {
 	padding: 50px 20% 30px 20px;
 	width: 100%;
 	height: 375px;
-	border-color: #000000;
+}
+
+div[id^='topic'] {
+	display: none;
 }
 
 .icon {
