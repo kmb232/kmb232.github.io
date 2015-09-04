@@ -1,5 +1,5 @@
 Title: No, I Don't Want to Be a Professional Coder
-Category: Tech
+Category: Technology
 Tags: learning to code
 Author: Me
 
