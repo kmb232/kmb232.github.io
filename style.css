@@ -130,6 +130,7 @@ margin: 100px 0px 0px 200px;
 
 .box_div a {
 	color:#454545;
+	text-decoration: underline;
 }
 .box_div a:hover {
 	text-decoration: underline;
