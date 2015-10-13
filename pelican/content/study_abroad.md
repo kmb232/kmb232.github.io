@@ -1,6 +1,6 @@
 Title: Study Abroad and Pretty Princesses
 Category: Social
-Tags: media
+Tags: society, education
 Author: Me
 
 I saw [this article](https://www.washingtonpost.com/blogs/answer-sheet/wp/2015/10/09/why-do-more-u-s-women-study-abroad-than-men/?tid=sm_tw) last week and it bothered me on several levels. I decided to write about it and had no idea where to start. The different education and career expecations for genders? How liberal arts are being taught? There's several issues involved here, all of which are very close to my heart and are topics I could write extensively on. But the main problem I kept returning to is this: Most, if not all, things that are preferred by women are considered frivolous by society. Is that really how we see study abroad, too?
