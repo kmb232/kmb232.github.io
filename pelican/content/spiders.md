@@ -1,11 +1,16 @@
-Title: Stop with the Spiders Already
+Title: Let's look at study abroad, shall we?
 Category: Social
 Tags: media
 Author: Me
 Status: Draft
 
-I just saw a headline on Mashable along the lines of "These Nighmare-Inducing Spiders Are Causing Panic in Britain", complete with a picture of said arachnids. I didn't read it. If fact, I scrolled down the page as quickly as possible because I have horrible arachnophobia and was experiencing the signs of panic that are the hallmark of all such phobias.
+I saw [this article](https://www.washingtonpost.com/blogs/answer-sheet/wp/2015/10/09/why-do-more-u-s-women-study-abroad-than-men/?tid=sm_tw) last week and it bothered me on several levels. I decided to write about it and had no idea where to start. The different education and career expecations for genders? How liberal arts are being forgotton? 
 
-Part of me wants to start a campaign to get media organizations to stop using spiders as clickbait fodder, but I know that's a slippery slope. One person's uncomfortable moment with a spider is another's paranoia about seeing a stray nipple on facebook. I can't say one isn't a big deal and people should stop being so squeamish and then complain about something that could very well be a picture of someone's beloved pet tarantula. All I can do is learn to deal with it.
+It's only briefly mentioned in the article, but I think most of the reason for the disparity lies in the fact that boys are still encouraged to have careers more than girls. Girls are supposed to get educations, and they can have jobs, but they still don't have the same pressure for career achievements.
 
-I once said that one of the best ways to learn about art is to stop and think about why you don't like specific pieces. In much the same way it can 
+Because studying abroad is seen as frivolous and not directly related to helping with one's career, it's considered something for girls.  It's an extension of the 19th century idea that girls should be sent to finishing school in Europe to learn culture and refinement while the boys stayed at home to learn the family business.
+
+Colleges have tried to change this perception by offering programs that include internships and volunteer opportunities, but it's not much help. 
+
+
+

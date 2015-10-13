@@ -21,3 +21,8 @@ $(document).ready(function() {
   });
 });
 
+$(document).ready(function(){
+    $("#close").click(function(){
+        $("div[id^'topic'").hide();
+    });
+}); 
