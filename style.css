@@ -122,6 +122,7 @@ ul {
 
 .topic {
 	height: 375px;
+	padding: 50px 0 30px 0;
 }
 
 #close {
@@ -138,6 +139,10 @@ div[id^='topic'] {
 .icon {
 	height: 50px;
 	width: 50px;
+	display: inline-block;
+	float: left;
+	margin-left: 10%
+	padding-bottom: 5px;
 } 
 
 .topic h1 {
