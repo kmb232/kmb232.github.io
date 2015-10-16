@@ -43,16 +43,16 @@ font-size:1em;
 
 
 #navbar {
-min-height: 275px;
+min-height: 250px;
 }
 
 #navbar h1 {
 font-family: 'Bitter', serif;
 font-weight: bolder;
 color: #6701c8;
-font-size: 3.8em;
+font-size: 300%;
 padding: 0 0 0 10%;
-white-space: nowrap;
+text-align: left;
 }
 
 #navbar h2 {
@@ -60,9 +60,9 @@ list-style:none;
 color:#f15a22;
 font-family: "Bitter", serif;
 font-weight: bold;
-font-size: 2em;
+font-size: 200%;
 padding: 0 0 0 13%;
-white-space: nowrap;
+text-align: left;
 }
 
 
@@ -142,21 +142,21 @@ div[id^='topic'] {
 	height: 50px;
 	width: 50px;
 	display: inline-block;
-	float: left;
-	margin-left: 10%
-	padding-bottom: 5px;
+	padding-right: 1.5em; 
 } 
 
 .topic h1 {
 	font-family: 'Bitter', serif;
 	color: #f15a22;
 	padding-left: 10%;
+	display: inline;
+	vertical-align: center;
 }
 
 .topic p {
 	font-family: 'Source Sans Pro','Helveticca', sans-serif;
 	color: 454545;
-	font-size: 1.1em;
+	font-size: 1.2em;
 	padding: 0 10% 0 13%;
 }
 
