@@ -18,6 +18,8 @@ height: 100%;
 .wrapper {
 	min-height: 100%;
 	margin: 0 auto -3em;
+	height: auto !important;
+	height: 100%;
 }
 
 #top_background {
@@ -167,7 +169,7 @@ div[id^='topic'] {
 	font-family: 'Source Sans Pro','Helveticca', sans-serif;
 	color: 454545;
 	font-size: 1.2em;
-	padding: 0 10% 0 13%;
+	padding: 0 10% .2em 13%;
 }
 
 
