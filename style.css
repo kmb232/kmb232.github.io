@@ -119,6 +119,7 @@ ul {
 	display: inline-flex;
 	padding: 5em 0 2em 13%;
 	flex-wrap: nowrap;
+	cursor: pointer;
 }
 
 .box_div li {
