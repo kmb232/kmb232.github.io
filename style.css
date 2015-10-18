@@ -55,7 +55,7 @@ font-size:1em;
 
 #navbar {
 min-height: 250px;
-padding-top: 3em;
+padding: 3em 0 3em;
 }
 
 #navbar h1 {
@@ -135,7 +135,7 @@ ul {
 
 
 .topic {
-	height: 375px;
+	
 	padding: 50px 0 30px 0;
 }
 
@@ -209,8 +209,6 @@ font-size:1em;
 background-color:#ebebeb;
 color: #b301fa;
 height: 3em;
-position: fixed;
-bottom: 0;
 }
 
 .push {
