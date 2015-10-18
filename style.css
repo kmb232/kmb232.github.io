@@ -9,6 +9,7 @@ color:#454545;
 font-family:"Bitter", sans-serif;
 font-size:.95em;
 text-align: justify;
+height: 100%;
 }
 
 
@@ -196,7 +197,6 @@ text-align:center;
 font-size:1em;
 background-color:#ebebeb;
 color: #b301fa;
-vertical-align: bottom;
 bottom: 0;
 }
 
