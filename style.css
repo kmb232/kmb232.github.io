@@ -198,6 +198,8 @@ font-size:1em;
 background-color:#ebebeb;
 color: #b301fa;
 bottom: 0;
+clear: both;
+position: relative;
 }
 
 #footer p {
