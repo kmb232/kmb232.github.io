@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $("ul.box_div a").on("click touch", function(e) {
+  $("ul.box_div a").on("click", function(e) {
     // The `target` field of the event is a reference to the link
     // that was clicked on
     var link = e.target;

@@ -13,6 +13,7 @@ font-family:"Bitter", sans-serif;
 font-size:.95em;
 text-align: justify;
 height: 100%;
+cursor: pointer;
 }
 
 .wrapper {
