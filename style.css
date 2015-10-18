@@ -209,6 +209,8 @@ font-size:1em;
 background-color:#ebebeb;
 color: #b301fa;
 height: 3em;
+position: fixed;
+bottom: 0;
 }
 
 .push {
