@@ -129,6 +129,7 @@ ul {
 .box_div a {
 	color:#454545;
 	text-decoration: underline;
+	cursor: pointer;
 
 }
 .box_div a:hover {
