@@ -13,7 +13,7 @@ $(document).ready(function() {
     var $anchor = $(anchorSelector);
     // Now, select all the `div` elements whose `id`s start with
     // 'topic' and ensure they're all hidden
-    $("div[id^='topic'").hide();
+    $("div[id^=topic]").hide();
     // Finally, find the containing topic div and fade it in
     $anchor.parent().parent().fadeIn();
     // Now inhibit the link from jumping to focus on the div
