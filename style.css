@@ -13,7 +13,6 @@ font-family:"Bitter", sans-serif;
 font-size:.95em;
 text-align: justify;
 height: 100%;
-cursor: pointer;
 }
 
 .wrapper {
@@ -119,7 +118,6 @@ ul {
 	display: inline-flex;
 	padding: 5em 0 2em 13%;
 	flex-wrap: nowrap;
-	cursor: pointer;
 }
 
 .box_div li {
