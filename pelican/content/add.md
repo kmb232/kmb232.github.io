@@ -1,12 +1,12 @@
-Title: Help for being unemployed and ADD
-Category: Social, Technology
-Tags: media
+Title: Looking organized when you're not - 16 tips for job hunting with ADD
+Category: Social
+Tags: career, mental health
 Author: Me
-Status: Draft
 
-If you have a career odds are you've had periods without a job. It's a time when you're supposed to be focused, organized, and on top of things - but those are things that are hard at the best of times when you have ADD. I struggled in my own time job hunting, but I also developed coping mechanisms. I decided to share a few of them in hopes that they might be of use to someone.
 
-Bonus: Lots of these are tips I've found helpful since I started freelancing a while back, too. 
+If you have a career, odds are you've had periods without a job. It's a time when you're supposed to be focused, organized, and take care of yourself - but those things are hard at the best of times when you have ADD. I struggled in my own time job hunting, but I also developed coping mechanisms. Maybe some of them will be useful to you.
+
+Bonus: Lots of these are tips I've found helpful since I started freelancing a while back, too. Basically any time you don't have a set routing and constant deadlines to organize your day around. 
 
 **1. Be wary of procrastination**
 
@@ -40,9 +40,9 @@ I have a folder in Documents for job-hunting. In that folder are individual subf
 
 If you happen to connect with someone, send them an email or add them on LinkedIn immediately. I've lost several business cards and other slips of paper before I've had a chance to actually contact them.
 
-**9. Exercise**
+**9. You've heard it before, exercise**
 
-What I said about needing every weapon you have? Make exercise one of them. Take whatever excuse you have in your head for not doing it right now, and tell it to go to hell. You'll feel much better if you stay in shape.
+What I said about needing every weapon you have? Make exercise one of them. It's proven to be a great way for helping to control ADD, helping to improve your mood and concentration. It's also a great way to add some routine to your day if you go running in the morning or make yourself go to the gym in the evening.
 
 **10. Keep track of the jobs you're interested in**
 
@@ -68,6 +68,10 @@ I love Google Docs as much as the next person, but when I need to really get wor
 
 Traditional to-do lists aren't very helpful when you really have only one item on the list - find a job. It's helpful to instead think in terms of blocks of time. Say, "I'll look for jobs for 45 minutes, and then I want to spend another 45 minutes on that Coursera class." That way you stay productive without being obsessed with any specific tasks.
 
-Above all else, remember to be kind to yourself. It's hard at the best of times, and it doesn't help when you feel like you're fighting yourself as well as the rest of the world. Don't be too hard on yourself if you spend a whole day on Twitter occasionally or you forget to do laundry on a regular basis. Make time for the things you enjoy, keep yourself healthy, and most importantly keep going. 
+**16. Sign up for email alerts about job postings**
+
+Browsing job sites can be a waste of time, especially if your ability to focus is at a premium. Sign up for email alerts about job postings from career sites. You get a concise list that you can go through in a few minutes rather than spending hours searching.
+
+Above all else, remember to be kind to yourself. It's hard at the best of times, and it doesn't help when you feel like you're fighting against yourself as well as the rest of the world. Don't be too hard on yourself if you spend a whole day on Twitter occasionally or you forget to do laundry on a regular basis. Make time for the things you enjoy, keep yourself healthy, and most importantly keep going. 
 
 
