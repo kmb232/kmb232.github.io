@@ -2,6 +2,7 @@ Title: I'm What Mental Illness Looks Like
 Category: Social
 Tags: history, data
 Author: Me
+Status: Draft
 
 I once went 24 hours without drinking water. I did it to myself - I was so depressed that the necessary act of ingesting water seemed like more than I deserved.
 
