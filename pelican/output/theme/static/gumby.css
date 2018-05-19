@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro|Bitter:400,400italic);
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:400,400i,700,700i,900,900i" rel="stylesheet");
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -73,7 +73,7 @@ html * {
 
 body {
   background: white;
-  font-family: "Open Sans";
+  font-family: "Poppins";
   font-weight: 400;
   color: #555555;
   position: relative;
@@ -94,10 +94,10 @@ html, body {
 }
 
 .ie9 {
-  font-family: "Open Sans";
+  font-family: "Poppins";
 }
 .ie9 * {
-  font-family: "Open Sans";
+  font-family: "Poppins";
 }
 
 .hide {
@@ -132,7 +132,7 @@ html, body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Open Sans";
+  font-family: "Poppins";
   font-weight: 300;
   color: #444444;
   text-rendering: optimizeLegibility;
@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 0.273em;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-  color: #d04526;
+  color: #089143;
 }
 
 @media only screen and (max-width: 767px) {
@@ -214,7 +214,7 @@ h6 {
   
   ======================================================*/
 p {
-  font-family: "Open Sans";
+  font-family: "Poppins";
   font-weight: 400;
   font-size: 16px;
   font-size: 1rem;
@@ -235,7 +235,7 @@ p.lead {
 }
 
 a {
-  color: #d04526;
+  color: #089143;
   text-decoration: none;
   outline: 0;
   line-height: inherit;
@@ -1201,7 +1201,7 @@ img {
     border-bottom: 1px solid #313436;
   }
   .navbar ul li.active .dropdown ul li a:hover {
-    color: #d04526;
+    color: #089143;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 1099px) {
@@ -1330,7 +1330,7 @@ img {
 .navbar li .dropdown ul > li a {
   display: block;
   padding: 0 20px;
-  color: #d04526;
+  color: #089143;
   border-bottom: 1px solid #cccccc;
   text-shadow: none;
   height: 51px;
@@ -1351,7 +1351,7 @@ img {
 
 .no-touch .navbar ul li:hover > a {
   position: relative;
-  background: #ebebeb;
+  background: #edd4e9;
   z-index: 1000;
 }
 
@@ -1395,7 +1395,7 @@ img {
     border-bottom: 1px solid #313436;
   }
   .no-touch .navbar ul li:hover .dropdown ul li a:hover {
-    color: #d04526;
+    color: #089143;
   }
 }
 .no-touch .navbar ul li:hover .dropdown ul li {
@@ -1472,7 +1472,7 @@ img {
   width: auto;
   background: #f2f2f2;
   -webkit-appearance: none;
-  font-family: "Open Sans";
+  font-family: "Poppins";
   font-weight: 600;
   padding: 0 !important;
   text-align: center;
@@ -4924,7 +4924,7 @@ form fieldset legend {
   outline: none;
   resize: none;
   -webkit-appearance: none;
-  font-family: "Open Sans";
+  font-family: "Poppins";
   font-weight: 300;
   font-size: 16px;
   font-size: 1rem;
@@ -5062,7 +5062,7 @@ form fieldset legend {
   padding: 0 10px 0 10px;
   background: #f2f2f2;
   border: 1px solid #d8d8d8;
-  font-family: "Open Sans";
+  font-family: "Poppins";
   font-weight: 600;
   color: #555555;
   font-size: 16px;
@@ -5312,7 +5312,7 @@ form fieldset legend {
   overflow: hidden;
   border: 1px solid #e5e5e5;
   border-radius: 4px;
-  font-family: "Open Sans";
+  font-family: "Poppins";
   font-weight: 600;
   height: 36px;
   line-height: 34px;
@@ -5373,7 +5373,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #089143;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -5387,7 +5387,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #089143;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -5409,7 +5409,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #089143;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -5423,7 +5423,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #089143;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -5437,7 +5437,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #089143;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -5455,7 +5455,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #089143;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -5469,7 +5469,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #089143;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -5483,7 +5483,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #089143;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -5497,7 +5497,7 @@ form fieldset legend {
   border: 1px solid #f2f2f2;
 }
 .badge.light a, .label.light a {
-  color: #d04526;
+  color: #089143;
 }
 .badge.dark, .label.dark {
   background: #212121;
@@ -5527,7 +5527,7 @@ form fieldset legend {
 
 .alert {
   padding: 0 10px;
-  font-family: "Open Sans";
+  font-family: "Poppins";
   font-weight: 600;
   list-style-type: none;
   word-wrap: break-word;
@@ -5616,7 +5616,7 @@ form fieldset legend {
   padding: 0 16px;
   margin: 0;
   color: #555555;
-  font-family: "Open Sans";
+  font-family: "Poppins";
   font-weight: 600;
   border: 1px solid #e5e5e5;
   border-width: 1px 1px 0 1px;
@@ -6053,7 +6053,7 @@ body#inner-doc {
   transition-duration: 0.5s;
 }
 body#inner-doc.active {
-  background: #eee;
+  background: #f7f7f7;
 }
 
 b {
@@ -6685,7 +6685,7 @@ div.buttons .primary {
 }
 
 #docs #quick-start {
-  border-top: solid 1px #eeeeee;
+  border-top: solid 1px #f7f7f7eee;
   margin-top: 0;
   margin-bottom: 70px;
   padding-top: 70px;
@@ -6773,7 +6773,7 @@ div.buttons .primary {
 }
 
 #docs .docs-links a {
-  color: #d04526;
+  color: #089143;
 }
 
 #docs .docs-links h4 a {
@@ -7029,7 +7029,7 @@ div.buttons .primary {
   margin-bottom: 5px;
 }
 #customize #body-link {
-  color: #d04526;
+  color: #089143;
 }
 #customize .custom-download {
   margin-top: 70px;

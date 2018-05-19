@@ -159,7 +159,7 @@ table th[class*="span"],
 
 .no-touch .navbar ul li.active > a {
   
-  background: #ebebeb;
+  background: #edd4e9;
 
 }
 /* Posts
@@ -183,14 +183,14 @@ a, a:hover { color: #3498DB; }
 a:focus { color: #34495E; }
 
 .btn a:hover, 
-.btn a:focus {color:#eee; }
+.btn a:focus {color:#f7f7f7; }
 
 .label:hover,
-.label:focus {color:#eee; }
+.label:focus {color:#f7f7f7; }
 
 /* Footer
 --------------------------------------------------------- */
-.bg { background:#eee; margin-top:35px; padding-top:25px; border-top:5px solid #3498DB; }
+.bg { background:#f7f7f7; margin-top:35px; padding-top:25px; border-top:5px solid #3498DB; }
 
 
 
