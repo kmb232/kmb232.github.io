@@ -31,7 +31,7 @@ LINKS = (('Nats', 'http://nationals.com/'),
 # Social widget
 SOCIAL = (('Website', 'http://kmb232.github.io'),
           ('Email', 'mailto:kathleenmburnett@gmail.com'),
-          ('Twitter', 'http://www.twitter.com/kmb232'),)
+          ('Twitter', 'http://www.twitter.com/modernclio'),)
 
 DEFAULT_PAGINATION = 10
 
